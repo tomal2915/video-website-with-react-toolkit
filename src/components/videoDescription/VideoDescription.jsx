@@ -1,4 +1,3 @@
-import React from "react";
 import LikeUnlike from "../likeUnlike/LikeUnlike";
 
 const VideoDescription = () => {
@@ -11,7 +10,6 @@ const VideoDescription = () => {
         <h2 className="text-sm leading-[1.7142857] text-slate-600 w-full">
           Uploaded on 23 Nov 2022
         </h2>
-
         <LikeUnlike />
       </div>
 
