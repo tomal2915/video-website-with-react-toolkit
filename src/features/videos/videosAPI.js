@@ -1,4 +1,4 @@
-import axios from "axios";
+import axios from "../../utls/axios";
 
 export const getVideos = async () => {
     // const response = await fetch("");
